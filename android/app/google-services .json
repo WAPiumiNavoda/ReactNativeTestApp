@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228708645521",
+    "project_id": "reactnativetest-e2c61",
+    "storage_bucket": "reactnativetest-e2c61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228708645521:android:74afe51df11887bed65d30",
+        "android_client_info": {
+          "package_name": "com.reactnativetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228708645521-s790r15q2o3mffg6gm73i5fvdukqn1d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs79HvXdrZku8pkO9QrS9r7Xz4m3MuF38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228708645521-s790r15q2o3mffg6gm73i5fvdukqn1d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
